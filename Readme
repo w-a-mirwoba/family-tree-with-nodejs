@@ -1,0 +1,29 @@
+usage:
+    This application has been made using nodejs v14.15.1.
+    To install the app run extract the contents of the files in a folder and run npm install -g .
+
+    the app will install and ready to be runned on CMD
+
+    meetthefamily <command>
+  
+      commands can be:
+  
+      START:             To start the application
+      ADD_CHILD:         To add anew family child member
+      GET_RELATIONSHIP:  Used to retrieve familymembers and relationships
+      HELP:              used to print the usage guide
+      exit:              Exit the app
+    
+      The diffrent relationship prompts are 
+      son
+      daughter 
+      sibling 
+      Maternal-Aunt
+      Maternal-Uncle
+      Paternal-Uncle
+      Sister-In-Law
+      Brother-In-Law
+
+      Sample how to get a relation --> GET_RELATIONSHIP lucy sibling 
+      sample of how to add a child --> ADD_CHILD John Lucy  M 
+    `

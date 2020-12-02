@@ -1,0 +1,19 @@
+{
+  "name": "meetthefamily",
+  "version": "1.0.0",
+  "description": "Walter Mirwoba Challenge on meet the family for shippit",
+  "main": "bin/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walter Ayieni Mirwoba",
+  "license": "MIT",
+  "bin": {
+    "MeetTheFamily": "./bin/app.js"
+  },
+  "dependencies": {
+    "boxen": "^4.0.0",
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  }
+}
